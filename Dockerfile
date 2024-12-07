@@ -1,4 +1,4 @@
-FROM python:3.11
+FROM python:3.12
 
 # 必要なパッケージをインストール
 RUN apt update && apt install python3.11-venv -y
