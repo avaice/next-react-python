@@ -1,5 +1,11 @@
 # Next.js + Python
 
+
+
+https://github.com/user-attachments/assets/354783fd-0296-4d94-912d-761357d29b5a
+
+
+
 Route HandlerやServer Actionsを使って、Next.jsからPythonコードを実行するサンプルです。
 
 ## 使い方
